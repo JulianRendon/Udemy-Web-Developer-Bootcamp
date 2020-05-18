@@ -1,0 +1,19 @@
+body {
+    background-color: wheat;
+    /* background: url(https://image.shutterstock.com/image-vector/wood-texture-sketch-grain-cover-260nw-1072042085.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+h1 {
+    color: rgba(0, 200, 100, 0.8);
+    border: 8px #fa8072 solid;
+}
+
+h4 {
+    color: #000;
+}
+
+li {
+    color: orange;
+}
